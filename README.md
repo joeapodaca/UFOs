@@ -6,7 +6,7 @@ The UFO webpage and dynamic table are working as intended but adding in-depth an
 ## Results
 Created four more filters: city, state, country, and shape.  You my now filter by date, city, state, country, and shape.  Fill out the filter criteria and press enter to see filtered results in the table. 
 
-![Filter Table](https://github.com/joeapodaca/UFOs/blob/main/static/images/filters.PNG)
+![Filter Table](https://github.com/joeapodaca/UFOs/blob/main/static/images/filters2.PNG)
 
 
 If you would like to clear the filters you can click the UFO Sightings in the upper left-hand corner.
